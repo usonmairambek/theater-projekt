@@ -1,0 +1,37 @@
+@media screen and (max-width: 920px) {
+.header__menu{
+    max-width: 800px;
+   
+}
+.header__menu-link{
+    margin-right: 20px;
+
+}
+.header__menu-phone{
+
+}
+.header__content-h1{
+    font-size: 50px;
+}
+.header__content-p{
+    max-width: 300px;
+}
+.header__content-right img{
+    padding-left: 10px;
+    width: 260px;
+    height: 400px;
+}
+.section__about{
+    padding-top: 80px;
+}
+.section__about-block{
+    flex-wrap: wrap;
+}
+.section__about-box img{
+    margin-top: 40px;
+}
+.section__about-box-2 h5{
+    padding-bottom: 20px;
+}
+
+}
